@@ -1,5 +1,5 @@
 package com.example;
 
-public interface AudioAdapterFactory {
+public interface AudioAdapterFactoryM {
     AudioAdapter createAudioAdapter(int bitrate);
 }
